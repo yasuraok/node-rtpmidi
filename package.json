@@ -13,7 +13,7 @@
   },
   "optionalDependencies": {
     "mdns2": "2.2.10",
-    "avahi_pub": "TheThingSystem/node_avahi_pub"
+    "avahi_pub": "https://github.com/yasuraok/node_avahi_pub.git#feature/nodev6test"
   },
   "keywords": [
     "midi",
